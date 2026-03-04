@@ -26,6 +26,9 @@ Built a malware classification model using static features extracted from Window
 **Genomic Variant Classification**  
 Machine learning pipeline to classify genomic variants based on clinical and biological features.
 
+**FinScope**  
+Developing a financial technology solution focused on data-driven insights and intelligent financial analysis. 
+
 ---
 
 ## Technical Skills
