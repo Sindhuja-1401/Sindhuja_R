@@ -41,8 +41,8 @@ Developing a financial technology solution focused on data-driven insights and i
 
 ## Interests
 
-- Healthcare AI  
-- Machine Learning Research  
+- AI Applications 
+- Machine Learning   
 - Data Science  
 - Predictive Analytics
 
