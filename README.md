@@ -14,14 +14,11 @@ My recent work focuses on healthcare-related AI systems, predictive modeling, an
 
 ## Projects
 
-**NutriMind – Health Analyzer**  
-A health analysis system that evaluates user lifestyle data and generates personalized diet, fitness, and health recommendations.
-
 **Silent Heart Attack Prediction**  
 Machine learning model designed to analyze heart sound data for early detection of potential cardiac issues.
 
-**Malware Detection using EMBER Dataset**  
-Built a malware classification model using static features extracted from Windows PE files.
+**Malware Family Evolution Prediction**  
+Built a malware prediction model using static features extracted from Windows PE files for evolving malware families.
 
 **Genomic Variant Classification**  
 Machine learning pipeline to classify genomic variants based on clinical and biological features.
