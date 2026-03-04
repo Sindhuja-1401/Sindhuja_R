@@ -1,51 +1,64 @@
 # Sindhuja R
 
-B.Tech Computer Science (AI) student at Karunya Institute of Technology and Sciences.  
-Interested in Machine Learning, Data Science, and building practical AI applications.
+B.Tech Computer Science (Artificial Intelligence) student at Karunya Institute of Technology and Sciences.  
+Interested in Machine Learning, Data Science, and building intelligent systems that solve real-world problems.
 
 ---
 
 ## About Me
 
-I enjoy working on projects that apply machine learning and data analysis to real-world problems.  
-My recent work focuses on healthcare-related AI systems, predictive modeling, and data-driven solutions.
+I enjoy developing data-driven applications using machine learning, data analytics, and intelligent systems. My projects span across multiple domains including natural language processing, genomics, environmental analytics, cybersecurity, and financial technology.
 
 ---
 
 ## Projects
 
-**Silent Heart Attack Prediction**  
-Machine learning model designed to analyze heart sound data for early detection of potential cardiac issues.
+### Genomic Variant Classification Pipeline
+Developed a machine learning pipeline to classify genomic variants as pathogenic or benign using biological and clinical features. The system performs preprocessing, feature engineering, model training, and prediction to assist in genetic variant interpretation.
 
-**Malware Family Evolution Prediction**  
-Built a malware prediction model using static features extracted from Windows PE files for evolving malware families.
 
-**Genomic Variant Classification**  
-Machine learning pipeline to classify genomic variants based on clinical and biological features.
+---
 
-**FinScope**  
-Developing a financial technology solution focused on data-driven insights and intelligent financial analysis. 
+### SBERT-Based Plagiarism Detection System
+Built a semantic plagiarism detection system using Sentence-BERT embeddings and cosine similarity to detect paraphrased or semantically similar text. The project includes a Streamlit-based interface for real-time similarity analysis.
+
+
+---
+
+### Air Quality and Weather Insights System
+Developed a data analytics system that collects and analyzes city-level air quality and weather data. Implemented SQL-based storage, performed data cleaning and forecasting using time-series models, and built a dashboard to visualize pollution trends.
+
+
+---
+
+### Malware Family Evolution Prediction using Temporal Fusion Transformer
+Implemented TFT to classify malicious software using static features extracted from Windows PE files. The system analyzes file entropy, metadata, and byte-level statistics to detect potential malware.
+
+
+---
+
+### NutriMind – Health Analyzer
+Designed a lifestyle analysis system that evaluates user health data and provides personalized recommendations for diet, exercise, and lifestyle improvement based on health indicators.
+
 
 ---
 
 ## Technical Skills
 
-**Languages:** JAVA, Python, SQL, HTML/CSS
-**Libraries & Tools:** Pandas, Scikit-learn, TensorFlow, NumPy  
-**Other:** Data Analysis, Machine Learning, Model Evaluation, Selenium Automation
+Programming Languages  
+Python, SQL
 
----
+Libraries and Tools  
+Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
 
-## Interests
-
-- AI Applications 
-- Machine Learning   
-- Data Science  
-- Predictive Analytics
+Areas of Interest  
+Machine Learning  
+Data Science  
+Artificial Intelligence Applications  
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/r-sindhuja/  
+LinkedIn: https://www.linkedin.com/in/r-sindhuja/
 Email: sindhujaraja57@gmail.com
